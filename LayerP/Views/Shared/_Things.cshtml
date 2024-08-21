@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@using BusinessLayer.Dtos
+
+@model ViewDto
+
+@{
+    var searchTerm = ViewBag.searchTerm;
+}
+
+<link href="~/css/things.css" rel="stylesheet" />
+
+<div class="album py-4 px-1 bg-light">
+    <div class="container">
+        <div class="row">
+            @foreach (var thing in Model.Things)
+            {
+                <div class="col-md-4 card-wrapper">
+                    <div class="card mb-4 box-shadow hover-effect" onclick="location.href='/Thing:@thing.Id'">
+                        <img class="card-img-top" src="@thing.Thumbnail" alt="@thing.Name">
+                        <div class="card-body">
+                            <p class="card-title"> @thing.Name </p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+

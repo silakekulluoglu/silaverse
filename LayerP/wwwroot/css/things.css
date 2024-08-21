@@ -1,0 +1,56 @@
+﻿
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 97%; /* Kartın kapsayıcı yüksekliğini %100 yapın */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Gölge efekti */
+}
+
+.card-img-top {
+    width: 100%; /* Resmin genişliğini kapsayıcıya uyacak şekilde yapar */
+    height: 350px; /* Resim yüksekliği sabitlenir */
+    background-color: #f8f9fa; /* Eksik alanlar için arka plan rengi */
+    object-fit: contain; /* Resmi kapsayıcıya uyacak şekilde büyütür */
+    background-position: center; /* Resmi ortalar */
+    background-repeat: no-repeat; /* Resmi tekrarlamaz */
+}
+
+.card-body {
+    flex: 1; /* Kart gövdesinin kalan alanı kaplamasını sağlar */
+    display: flex;
+    flex-direction: column;
+    /*justify-content: space-between; /* İçeriği üst ve alt tarafa yayar */
+    padding: 1rem;
+}
+
+.card-title {
+    margin: 0; /* Kart metninin etrafındaki boşlukları kaldırır */
+    text-align: center;
+    font-weight: bold;
+    white-space: nowrap; /* Tek satırda tutar */
+    overflow: hidden; /* Taşan kısmı gizler */
+    text-overflow: ellipsis; /* Üç nokta ekler */
+}
+
+.hover-effect {
+    transition: transform 0.3s ease-in-out;
+}
+
+    .hover-effect:hover {
+        transform: scale(1.05);
+        cursor: pointer;
+    }
+
+
+.btn-group {
+    margin-top: auto; /* Buton grubunu kartın altına taşır */
+}
+
+.card-wrapper {
+    margin-bottom: 1.5rem; /* Kartlar arasındaki boşluk */
+}
+
+    .card-wrapper .card {
+        border-radius: 40px; /* Bu değeri istediğiniz gibi artırabilir veya azaltabilirsiniz */
+        overflow: hidden;
+    }

@@ -1,0 +1,50 @@
+/* _content/LayerP/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+.body[b-zcyp43zkck] {
+    width: 100%;
+}
+
+.container-fluid main[b-zcyp43zkck] {
+    margin: 0px;
+    padding: 10px; /* Örnek: tüm kenarları 10px padding ile ayarlama */
+    background-color: #f8f9fa; /* Örnek: arka plan rengini değiştirme */
+    /* Diğer stil özellikleri */
+}
+
+.navbar-brand[b-zcyp43zkck] {
+    font-size: 1.5rem; /* Yazı büyüklüğünü burada ayarlayabilirsiniz */
+    padding: 15px;
+    padding-left: 40px;
+}
+
+.navbar-custom[b-zcyp43zkck] {
+    background-color: #007bff;
+    height: 70px; /* Navigation barın arka plan rengi */
+}
+
+    .navbar-custom .navbar-brand[b-zcyp43zkck],
+    .navbar-custom .nav-link[b-zcyp43zkck] {
+        color: #ffffff; /* Yazıların rengi */
+    }
+
+.custom-search-bar[b-zcyp43zkck] {
+    width: 700px;
+    height: 50px;
+    background-color: #10469C;
+    border: none;
+    box-shadow: none;
+}
+
+    .custom-search-bar[b-zcyp43zkck]::placeholder {
+        color: #ffffff; /* Placeholder rengini beyaz yapın */
+        opacity: 1; /* Şeffaflığı 1 yaparak tam beyaz olmasını sağlayın */
+    }
+
+.footer[b-zcyp43zkck] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

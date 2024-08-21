@@ -1,0 +1,157 @@
+﻿body {
+}
+
+.container {
+    background-color: transparent;
+    /*position: absolute;*/
+}
+
+.card {
+    width: 100%;
+    border-radius: 40px;
+    background-clip: padding-box;
+    overflow: visible;
+    clip-path: inset(0 round 40px);
+}
+
+.photo-card {
+    height: 700px;
+}
+
+.card-body {
+    display: flex;
+}
+
+.left-column {
+    flex: 1; /* 1 birim genişlik */
+    padding: 15px; /* İsteğe bağlı: İç boşluk */
+    min-width: calc(25% - 15px);
+}
+
+.right-column {
+    flex: 4; /* 4 birim genişlik */
+    padding: 15px; /* İsteğe bağlı: İç boşluk */
+}
+
+
+.carousel-item img {
+    height: 500px;
+    object-fit: contain;
+    width: 80%;
+}
+
+
+.user-profile-photo {
+    width: 48px;
+    height: 48px;
+    margin-left: 20px;
+}
+
+.card-title {
+    font-size: 20px;
+}
+
+.user-name {
+    margin-top: 4px;
+    font-size: 14px;
+}
+
+.fixed-btn {
+    position: fixed;
+    right: 150px; /* Sayfanın sağından 20px solda */
+    z-index: 1000; /* Diğer öğelerin üzerinde kalması için */
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    width: 48px; /* Buton genişliği */
+    height: 48px;
+    background-size: 50%; /* İkonun boyutunu ayarlar */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* Butonları Alt Alta Yerleştirmek İçin Ek Stil */
+#commentBtn {
+    top: 150px; /* Butonların kartın yanında başlaması için ayarlandı */
+    background-image: url('../svgs/commentbtn.svg');
+}
+
+#likeBtn {
+    top: 220px; /* İkinci butonu alt alta yerleştirmek için ayarlandı */
+    background-image: url('../svgs/likebtn.svg');
+}
+
+#collectionBtn {
+    top: 290px;
+    background-image: url('../svgs/collectionbtn.svg');
+}
+
+#shareBtn {
+    top: 360px;
+    background-image: url('../svgs/sharebtn.svg');
+}
+
+.badge {
+    position: absolute;
+    top: -8px; /* Butonun yukarısından pozisyon */
+    right: -8px; /* Butonun sağından pozisyon */
+    background-color: #007bff; /* Mavi renk */
+    color: white;
+    border-radius: 50%;
+    padding: 1px;
+    font-size: 12px;
+    min-width: 20px;
+    height: 22px;
+    text-align: center;
+    line-height: 18px;
+}
+
+
+.card-options {
+    width: 150px;
+    height: 40px;
+    border: 2px;
+    margin: 5px 15px 10px 10px; /* Butonlar arasına boşluk ekler */
+    border-radius: 30px;
+    font-size: 16px;
+    color: #196ef0;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+    .card-options:hover {
+        background-color: #d7e4f7; /* Hover durumunda butonun arka plan rengi */
+        color: #196ef0;
+    }
+
+.nav-tabs {
+    border-bottom: none; /* Tabların altındaki genel sınır */
+}
+
+    .nav-tabs .nav-item {
+        flex: 1; /* Her tabın eşit genişlikte olmasını sağlar */
+        text-align: center; /* İçeriği ortalar */
+    }
+
+    .nav-tabs .nav-link {
+        border: none;
+        color: #555; /* Tab yazı rengi */
+        font-family: IBM Plex Sans, sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        height: 80px;
+    }
+
+        .nav-tabs .nav-link.active {
+            color: #007bff;
+            background-color: transparent;
+        }
+
+.card-header {
+    height: 50px;
+    align-items: center;
+}

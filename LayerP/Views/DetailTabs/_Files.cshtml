@@ -1,0 +1,51 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@using BusinessLayer.Dtos
+
+@model ThingDetailDto
+
+@{
+   
+}
+<link href="~/css/files_tab.css" rel="stylesheet" />
+
+<div class="container filesTab">
+    <div>
+        <div class="license">
+            <div class="license_part">
+                <h4>License</h4>
+                <a href="location.href='/Thing:@Model.Id'">@Model.Name</a> <br />
+                by <a href="">@Model.Creator.Name</a> is licensed under the <a>@Model.License</a> license.
+            </div>
+            <div class="download_part">
+                <button type="button" class="btn btn-primary">
+                    Download
+                    <img src="~/svgs/download.svg" />
+                </button>
+            </div>
+        </div>
+
+        <div class="details">
+            Take advantage of extra features by downloading &nbsp;<a href="">UltiMaker Cura</a>.
+        </div>
+
+        @foreach (var file in Model.ZipData.Files){
+            <div class="card mb-3 file-cards">
+              <div class="row g-0">
+                <div class="col-md-4">
+                  <img src="..." class="img-fluid rounded-start" alt="...">
+                </div>
+                <div class="col-md-8">
+                  <div class="card-body">
+                    <h5 class="card-title">@file.Name</h5>
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+        }
+    </div>
+</div>

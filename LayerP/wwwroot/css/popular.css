@@ -1,0 +1,71 @@
+﻿.form-select {
+    text-align: left;
+    width: 390px;
+    height: 46px;
+    border-radius: 20px;
+}
+
+
+.reklam-alani, .things-page {
+    width: 100%;
+    max-width: 1200px;
+    margin-bottom: 20px;
+}
+
+
+@media (max-width: 768px) {
+    .container2 {
+        grid-template-columns: 1fr; /* Küçük ekranlarda tek sütun */
+    }
+}
+
+/* page ile ilgili olanlar */
+
+.custom-pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.custom-pagination .pagination {
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+}
+
+.custom-pagination .page-item {
+    margin: 0 2px;
+}
+
+.custom-pagination .page-link {
+    position: relative;
+    display: block;
+    padding: 0.5rem 0.75rem;
+    line-height: 1.25;
+    color: #007bff;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    text-decoration: none;
+}
+
+.custom-pagination .page-item.active .page-link {
+    z-index: 3;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.custom-pagination .page-link:hover {
+    z-index: 2;
+    color: #0056b3;
+    background-color: #e9ecef;
+    border-color: #dee2e6;
+}
+
+.custom-pagination .page-item.disabled .page-link {
+    color: #6c757d;
+    pointer-events: none;
+    cursor: auto;
+    background-color: #fff;
+    border-color: #dee2e6;
+}
