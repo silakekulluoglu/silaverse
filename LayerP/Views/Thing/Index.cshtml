@@ -248,8 +248,17 @@
 					url: '@Url.Action("Index", "Thing")',
 					type: 'GET',
 					data: { id: @Model.Id, tabName: activeTabText },
+					dataType: 'json',
 					success: function (result) {
+						console.log("veri alindi");
 						$('#tabContent').html($(result).find('#tabContent').html());
+					}
+					error: function (xhr, status, error) {
+						console.error("Hata oluştu:", error);
+						console.log("XHR:", xhr.responseText);
+					},
+					complete: function () {
+						console.log("Ajax çağrısı tamamlandı");
 					}
 				});
 			});

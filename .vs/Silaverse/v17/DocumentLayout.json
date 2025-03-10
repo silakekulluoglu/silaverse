@@ -1,0 +1,571 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\layerp\\views\\thing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|solutionrelative:layerp\\views\\thing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\layerp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|solutionrelative:layerp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\layerp\\controllers\\thingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|solutionrelative:layerp\\controllers\\thingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\layerp\\views\\shared\\_things.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|solutionrelative:layerp\\views\\shared\\_things.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\layerp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|solutionrelative:layerp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\layerp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|solutionrelative:layerp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\layerp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|solutionrelative:layerp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\layerp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|solutionrelative:layerp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\businesslayer\\dtos\\thingdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\thingdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\businesslayer\\dtos\\viewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\viewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\businesslayer\\dtos\\detailpagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\detailpagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\businesslayer\\thingservice\\getpopularthings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\thingservice\\getpopularthings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F23D7B-DF95-4081-BE95-062C5AB7B06B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\dataaccesslayer\\entities\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F23D7B-DF95-4081-BE95-062C5AB7B06B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\layerp\\views\\detailtabs\\_files.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|solutionrelative:layerp\\views\\detailtabs\\_files.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\layerp\\wwwroot\\css\\files_tab.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|solutionrelative:layerp\\wwwroot\\css\\files_tab.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\businesslayer\\enums\\tabpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\enums\\tabpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F23D7B-DF95-4081-BE95-062C5AB7B06B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\dataaccesslayer\\entities\\thingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F23D7B-DF95-4081-BE95-062C5AB7B06B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\thingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\layerp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|solutionrelative:layerp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\layerp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|solutionrelative:layerp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\layerp\\wwwroot\\css\\popular.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|solutionrelative:layerp\\wwwroot\\css\\popular.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\layerp\\wwwroot\\css\\things.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|solutionrelative:layerp\\wwwroot\\css\\things.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F23D7B-DF95-4081-BE95-062C5AB7B06B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\dataaccesslayer\\entities\\zipdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F23D7B-DF95-4081-BE95-062C5AB7B06B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\zipdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F23D7B-DF95-4081-BE95-062C5AB7B06B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\dataaccesslayer\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F23D7B-DF95-4081-BE95-062C5AB7B06B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F23D7B-DF95-4081-BE95-062C5AB7B06B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\dataaccesslayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F23D7B-DF95-4081-BE95-062C5AB7B06B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\layerp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|solutionrelative:layerp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\businesslayer\\httpservice\\getjsonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\httpservice\\getjsonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F23D7B-DF95-4081-BE95-062C5AB7B06B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\dataaccesslayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F23D7B-DF95-4081-BE95-062C5AB7B06B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\layerp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|solutionrelative:layerp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\businesslayer\\enums\\filteroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\enums\\filteroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\businesslayer\\enums\\postedafter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\enums\\postedafter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\businesslayer\\enums\\maincategoriesfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\enums\\maincategoriesfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\businesslayer\\enums\\categoryartfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\enums\\categoryartfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\layerp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5FBC24A-DCFC-48D9-BB8D-595805826692}|LayerP\\LayerP.csproj|solutionrelative:layerp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\sila-\\downloads\\silaverse\\silaverse\\businesslayer\\enums\\categorymodelsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9A6846-1963-477C-930E-BE0C46C69CBC}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\enums\\categorymodelsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayerP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LayerP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwBAAAAAAAAAAAAANIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T13:29:13.263Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LayerP\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LayerP\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwC8AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:29:36.245Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "LayerP\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "LayerP\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAswGoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-31T06:59:27.366Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThingController.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Controllers\\ThingController.cs",
+              "RelativeDocumentMoniker": "LayerP\\Controllers\\ThingController.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Controllers\\ThingController.cs",
+              "RelativeToolTip": "LayerP\\Controllers\\ThingController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvx8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:03:06.132Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetPopularThings.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\ThingService\\GetPopularThings.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\ThingService\\GetPopularThings.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\ThingService\\GetPopularThings.cs",
+              "RelativeToolTip": "BusinessLayer\\ThingService\\GetPopularThings.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:49:31.646Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Views\\Thing\\Index.cshtml",
+              "RelativeDocumentMoniker": "LayerP\\Views\\Thing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Views\\Thing\\Index.cshtml",
+              "RelativeToolTip": "LayerP\\Views\\Thing\\Index.cshtml",
+              "ViewState": "AQIAAO4AAAAAAAAAAAAUwPkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T05:54:10.207Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LayerP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LayerP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T07:33:02.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Dtos\\ViewDto.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Dtos\\ViewDto.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Dtos\\ViewDto.cs",
+              "RelativeToolTip": "BusinessLayer\\Dtos\\ViewDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:31:15.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Things.cshtml",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Views\\Shared\\_Things.cshtml",
+              "RelativeDocumentMoniker": "LayerP\\Views\\Shared\\_Things.cshtml",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Views\\Shared\\_Things.cshtml",
+              "RelativeToolTip": "LayerP\\Views\\Shared\\_Things.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T14:33:39.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "files_tab.css",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\wwwroot\\css\\files_tab.css",
+              "RelativeDocumentMoniker": "LayerP\\wwwroot\\css\\files_tab.css",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\wwwroot\\css\\files_tab.css",
+              "RelativeToolTip": "LayerP\\wwwroot\\css\\files_tab.css",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T07:06:30.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThingDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Dtos\\ThingDetailDto.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Dtos\\ThingDetailDto.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Dtos\\ThingDetailDto.cs",
+              "RelativeToolTip": "BusinessLayer\\Dtos\\ThingDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:17:57.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Program.cs",
+              "RelativeDocumentMoniker": "LayerP\\Program.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Program.cs",
+              "RelativeToolTip": "LayerP\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:59:03.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TabPages.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Enums\\TabPages.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Enums\\TabPages.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Enums\\TabPages.cs",
+              "RelativeToolTip": "BusinessLayer\\Enums\\TabPages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:55:20.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetailPageDto.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Dtos\\DetailPageDto.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Dtos\\DetailPageDto.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Dtos\\DetailPageDto.cs",
+              "RelativeToolTip": "BusinessLayer\\Dtos\\DetailPageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:55:09.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Files.cshtml",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Views\\DetailTabs\\_Files.cshtml",
+              "RelativeDocumentMoniker": "LayerP\\Views\\DetailTabs\\_Files.cshtml",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Views\\DetailTabs\\_Files.cshtml",
+              "RelativeToolTip": "LayerP\\Views\\DetailTabs\\_Files.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T07:04:05.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\DataAccessLayer\\Entities\\File.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\File.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\DataAccessLayer\\Entities\\File.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\File.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:34:08.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ThingDetail.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\DataAccessLayer\\Entities\\ThingDetail.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\ThingDetail.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\DataAccessLayer\\Entities\\ThingDetail.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\ThingDetail.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAA9wGkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:18:11.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "LayerP\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "LayerP\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-30T06:57:33.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "LayerP\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "LayerP\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-06T06:33:04.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "popular.css",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\wwwroot\\css\\popular.css",
+              "RelativeDocumentMoniker": "LayerP\\wwwroot\\css\\popular.css",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\wwwroot\\css\\popular.css",
+              "RelativeToolTip": "LayerP\\wwwroot\\css\\popular.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-05T11:37:39.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "things.css",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\wwwroot\\css\\things.css",
+              "RelativeDocumentMoniker": "LayerP\\wwwroot\\css\\things.css",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\wwwroot\\css\\things.css",
+              "RelativeToolTip": "LayerP\\wwwroot\\css\\things.css",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwDcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-30T10:29:37.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ZipData.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\DataAccessLayer\\Entities\\ZipData.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\ZipData.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\DataAccessLayer\\Entities\\ZipData.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\ZipData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:33:41.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\DataAccessLayer\\Entities\\Image.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Image.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\DataAccessLayer\\Entities\\Image.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:34:48.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\DataAccessLayer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\DataAccessLayer\\Entities\\User.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\User.cs",
+              "ViewState": "AQIAAAUAAACAgZmZmRkWwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:42:12.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LayerP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LayerP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T11:12:29.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetJsonResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\HttpService\\GetJsonResponse.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\HttpService\\GetJsonResponse.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\HttpService\\GetJsonResponse.cs",
+              "RelativeToolTip": "BusinessLayer\\HttpService\\GetJsonResponse.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:25:19.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\DataAccessLayer\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\DataAccessLayer\\Entities\\Tag.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:41:40.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryArtFilter.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Enums\\CategoryArtFilter.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Enums\\CategoryArtFilter.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Enums\\CategoryArtFilter.cs",
+              "RelativeToolTip": "BusinessLayer\\Enums\\CategoryArtFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T12:07:10.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FilterOption.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Enums\\FilterOption.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Enums\\FilterOption.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Enums\\FilterOption.cs",
+              "RelativeToolTip": "BusinessLayer\\Enums\\FilterOption.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:45:34.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "LayerP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "LayerP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-04T15:51:49.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MainCategoriesFilter.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Enums\\MainCategoriesFilter.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Enums\\MainCategoriesFilter.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Enums\\MainCategoriesFilter.cs",
+              "RelativeToolTip": "BusinessLayer\\Enums\\MainCategoriesFilter.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T12:00:35.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PostedAfter.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Enums\\PostedAfter.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Enums\\PostedAfter.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Enums\\PostedAfter.cs",
+              "RelativeToolTip": "BusinessLayer\\Enums\\PostedAfter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:10:01.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "LayerP\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\LayerP\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "LayerP\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T11:12:31.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryModelsFilter.cs",
+              "DocumentMoniker": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Enums\\CategoryModelsFilter.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Enums\\CategoryModelsFilter.cs",
+              "ToolTip": "C:\\Users\\sila-\\Downloads\\Silaverse\\Silaverse\\BusinessLayer\\Enums\\CategoryModelsFilter.cs",
+              "RelativeToolTip": "BusinessLayer\\Enums\\CategoryModelsFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:58:04.815Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -216,3 +216,4 @@ C:\Users\sila-\Downloads\Silaverse\Silaverse\LayerP\obj\Debug\net8.0\scopedcss\p
 C:\Users\sila-\Downloads\Silaverse\Silaverse\LayerP\obj\Debug\net8.0\LayerP.csproj.Up2Date
 C:\Users\sila-\Downloads\Silaverse\Silaverse\LayerP\obj\Debug\net8.0\LayerP.genruntimeconfig.cache
 C:\Users\sila-\Downloads\Silaverse\Silaverse\LayerP\obj\Debug\net8.0\ref\LayerP.dll
+C:\Users\sila-\Downloads\Silaverse\Silaverse\LayerP\obj\Debug\net8.0\LayerP.sourcelink.json

@@ -28,3 +28,4 @@ C:\Users\sila-\Downloads\Silaverse\Silaverse\BusinessLayer\bin\Debug\net8.0\Data
 C:\Users\sila-\Downloads\Silaverse\Silaverse\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
 C:\Users\sila-\Downloads\Silaverse\Silaverse\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
 C:\Users\sila-\Downloads\Silaverse\Silaverse\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\sila-\Downloads\Silaverse\Silaverse\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json

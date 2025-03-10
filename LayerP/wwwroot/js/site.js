@@ -116,6 +116,9 @@ $(document).ready(function () {
             },
             error: function (error) {
                 console.log('Error:', error);
+            },
+            complete: function () {
+                console.log("Ajax çağrısı tamamlandı");
             }
         });
         

@@ -20,8 +20,15 @@ namespace LayerP.Controllers
             var thingId = Convert.ToInt32(id);
             ThingDetailDto thingDetail = await _getPopularThings.GetThingDetailAsync(thingId);
             Console.WriteLine(thingId);
-            ViewBag.tabName = tabName;
-            return View(thingDetail);
+            //ViewBag.tabName = tabName;
+            // return View(thingDetail);
+            var response = new
+            {
+                ThingDetail = thingDetail,
+                TabName = tabName
+            };
+
+            return Json(response);
         }
 	}
 }
